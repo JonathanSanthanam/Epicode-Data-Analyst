@@ -1,23 +1,31 @@
-Week2/README.md
+Week 2
 
-Settimana 2 - Analisi Dati e Visualizzazione in Excel
-Questa settimana ho lavorato sulle competenze pratiche di analisi dati utilizzando Excel, concentrandomi sulla pulizia, manipolazione e visualizzazione dei dati. Gli argomenti che ho studiato includono:
+Analisi Dati e Layout di Pagina in Excel
+Questa settimana ho lavorato su due progetti distinti: analisi dati con dataset inventario e gestione del layout di pagina con dati aziendali. Gli argomenti che ho studiato includono:
 
-Pulizia dei Dati: Ho imparato a rimuovere spazi, gestire valori null e standardizzare i formati
-Trasformazione dei Dati: Ho creato colonne calcolate, concatenato valori e applicato formattazione condizionale
-Creazione di Grafici: Ho costruito diversi tipi di grafici (a barre, a torta) per rappresentare dati di vendita per categorie
-Layout e Formattazione: Ho organizzato i fogli di lavoro con interruzioni di pagina, intestazioni e piè di pagina appropriati
+Layout di Pagina: Ho imparato a gestire orientamento, margini, dimensioni, area di stampa e interruzioni di pagina
+Intestazioni e Piè di Pagina: Ho configurato intestazioni personalizzate e piè di pagina con numero pagina e data
+Pulizia dei Dati: Ho rimosso spazi, gestito valori null e standardizzato formati nel dataset inventario
+Trasformazione dei Dati: Ho creato colonne calcolate con concatenazione e moltiplicazioni per totali
+Formattazione Condizionale: Ho applicato colori di sfondo basati su criteri specifici
+Funzioni Avanzate: Ho utilizzato SOMMA.SE per calcoli condizionali e analisi per categorie
+Visualizzazione Dati: Ho creato grafici multipli (barre, torta) per rappresentare vendite e quantità
+Organizzazione Documenti: Ho strutturato worksheet con interruzioni di pagina per presentazioni professionali
 
-Ho lavorato con un dataset reale di inventario per praticare le competenze essenziali di analisi dati, inclusa la preparazione dei dati, calcoli riassuntivi usando funzioni come SOMMA.SE, e creazione di visualizzazioni significative per comunicare insights aziendali.
+Ho lavorato con due dataset diversi applicando tecniche di analisi dati, creazione grafici e formattazione avanzata per comunicare insights aziendali in modo efficace.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-Week 2 - Data Analysis and Visualization in Excel
-This week I worked on practical data analysis skills using Excel, focusing on data cleaning, manipulation, and visualization techniques. The topics I studied include:
+Data Analysis and Page Layout in Excel
+This week I worked on two distinct projects: data analysis with inventory dataset and page layout management with company data. The topics I studied include:
 
-Data Cleaning: I learned to remove spaces, handle null values, and standardize data formats
-Data Transformation: I created calculated columns, concatenated values, and applied conditional formatting
-Chart Creation: I built multiple chart types (bar charts, pie charts) to represent sales data by different categories
-Page Layout & Formatting: I organized worksheets with proper page breaks, headers, and footers for professional presentation
+Page Layout: I learned to manage orientation, margins, dimensions, print areas and page breaks
+Headers and Footers: I configured custom headers and footers with page numbers and dates
+Data Cleaning: I removed spaces, handled null values and standardized formats in the inventory dataset
+Data Transformation: I created calculated columns with concatenation and multiplications for totals
+Conditional Formatting: I applied background colors based on specific criteria
+Advanced Functions: I used SUMIF for conditional calculations and category analysis
+Data Visualization: I created multiple charts (bar, pie) to represent sales and quantities
+Document Organization: I structured worksheets with page breaks for professional presentations
 
-I worked with a real inventory dataset to practice essential data analyst skills including data preparation, summary calculations using functions like SUMIF, and creating meaningful visualizations to communicate business insights.
+I worked with two different datasets applying data analysis techniques, chart creation and advanced formatting to effectively communicate business insights.

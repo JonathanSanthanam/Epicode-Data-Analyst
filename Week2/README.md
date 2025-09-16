@@ -1,31 +1,44 @@
 Week 2
+Durante questa settimana ho approfondito due aspetti cruciali di Excel: la gestione professionale del layout di stampa e l'analisi avanzata dei dati attraverso le tabelle pivot.
+Competenze sviluppate:
 
-Analisi Dati e Layout di Pagina in Excel
-Questa settimana ho lavorato su due progetti distinti: analisi dati con dataset inventario e gestione del layout di pagina con dati aziendali. Gli argomenti che ho studiato includono:
+Layout di pagina completo: orientamento, margini personalizzati, dimensioni carta e aree di stampa
+Gestione avanzata di intestazioni/piè di pagina con elementi dinamici (data, numerazione, percorso file)
+Pulizia sistematica dei dataset: rimozione spazi, gestione valori NULL, standardizzazione formati
+Trasformazioni dati: concatenazione multi-campo, calcoli condizionali con SOMMA.SE
+Creazione e gestione tabelle pivot per analisi multi-dimensionale
+Implementazione campi calcolati nelle pivot per metriche personalizzate
+Formattazione condizionale avanzata per evidenziare pattern
+Visualizzazione dati con grafici multipli e dashboard strutturati
 
-Layout di Pagina: Ho imparato a gestire orientamento, margini, dimensioni, area di stampa e interruzioni di pagina
-Intestazioni e Piè di Pagina: Ho configurato intestazioni personalizzate e piè di pagina con numero pagina e data
-Pulizia dei Dati: Ho rimosso spazi, gestito valori null e standardizzato formati nel dataset inventario
-Trasformazione dei Dati: Ho creato colonne calcolate con concatenazione e moltiplicazioni per totali
-Formattazione Condizionale: Ho applicato colori di sfondo basati su criteri specifici
-Funzioni Avanzate: Ho utilizzato SOMMA.SE per calcoli condizionali e analisi per categorie
-Visualizzazione Dati: Ho creato grafici multipli (barre, torta) per rappresentare vendite e quantità
-Organizzazione Documenti: Ho strutturato worksheet con interruzioni di pagina per presentazioni professionali
+Sfide risolte:
 
-Ho lavorato con due dataset diversi applicando tecniche di analisi dati, creazione grafici e formattazione avanzata per comunicare insights aziendali in modo efficace.
+Organizzazione di documenti multi-sezione con interruzioni di pagina strategiche
+Analisi performance dipendenti con filtri dinamici e calcoli percentuali
+Categorizzazione automatica influencer basata su pattern nei nomi
+Creazione reportistica professionale con insight per pagina
 
---------------------------------------------------------------------------------------------------------------------------------
+L'aspetto più interessante è stata la scoperta delle tabelle pivot come strumento di business intelligence, permettendo analisi complesse con drag-and-drop e la possibilità di creare campi calcolati per metriche non presenti nei dati originali.
 
-Data Analysis and Page Layout in Excel
-This week I worked on two distinct projects: data analysis with inventory dataset and page layout management with company data. The topics I studied include:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Page Layout: I learned to manage orientation, margins, dimensions, print areas and page breaks
-Headers and Footers: I configured custom headers and footers with page numbers and dates
-Data Cleaning: I removed spaces, handled null values and standardized formats in the inventory dataset
-Data Transformation: I created calculated columns with concatenation and multiplications for totals
-Conditional Formatting: I applied background colors based on specific criteria
-Advanced Functions: I used SUMIF for conditional calculations and category analysis
-Data Visualization: I created multiple charts (bar, pie) to represent sales and quantities
-Document Organization: I structured worksheets with page breaks for professional presentations
+This week I focused on two crucial Excel aspects: professional print layout management and advanced data analysis through pivot tables.
+Skills developed:
 
-I worked with two different datasets applying data analysis techniques, chart creation and advanced formatting to effectively communicate business insights.
+Complete page layout: orientation, custom margins, paper sizes and print areas
+Advanced header/footer management with dynamic elements (date, numbering, file path)
+Systematic dataset cleaning: space removal, NULL value handling, format standardization
+Data transformations: multi-field concatenation, conditional calculations with SUMIF
+Pivot table creation and management for multi-dimensional analysis
+Calculated field implementation in pivots for custom metrics
+Advanced conditional formatting for pattern highlighting
+Data visualization with multiple charts and structured dashboards
+
+Challenges overcome:
+
+Multi-section document organization with strategic page breaks
+Employee performance analysis with dynamic filters and percentage calculations
+Automatic influencer categorization based on name patterns
+Professional reporting creation with insights per page
+
+The most valuable discovery was pivot tables as business intelligence tools, enabling complex analysis through drag-and-drop interfaces and the ability to create calculated fields for metrics not present in original data.

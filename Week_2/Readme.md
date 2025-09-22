@@ -1,6 +1,6 @@
-Week 2 — Excel Printing & Pivot Tables
+Week 2 — Margine Stama & Pivot Tables
 
-### 🇮🇹 Resoconto Settimana 2
+Resoconto Settimana 2
 Questa settimana ho fatto un passo avanti con Excel, imparando sia la parte di **layout di stampa** che le **tabelle Pivot**.  
 Ho capito come rendere i file presentabili con margini, intestazioni e aree di stampa, e soprattutto come sintetizzare dataset complessi con Pivot Table e campi calcolati.  
 È stato il primo vero assaggio di analisi strutturata dei dati.

@@ -81,6 +81,9 @@ The course covers the full data lifecycle: collecting, cleaning, organizing, ana
 - Personal coach for soft skills and career development  
 
 ## 🔧 Tools & Skills  
+- Portfolio of real projects to showcase to recruiters  
+- Career Service with mock interviews, personal branding, and AI support (EpiCopilot)  
+
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)  
@@ -88,6 +91,3 @@ The course covers the full data lifecycle: collecting, cleaning, organizing, ana
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)  
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)  
-
-- Portfolio of real projects to showcase to recruiters  
-- Career Service with mock interviews, personal branding, and AI support (EpiCopilot)  

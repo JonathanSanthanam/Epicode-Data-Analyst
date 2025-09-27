@@ -1,6 +1,6 @@
 Week 3 — Power Query & Data Transformation
 
-### 🇮🇹 Resoconto Settimana 3
+Resoconto Settimana 3
 Questa settimana è stata tutta su **Power Query**. Ho imparato a importare dati da diverse fonti, pulirli, trasformarli e integrarli in un unico dataset pronto per l’analisi.  
 Non è stato sempre semplice (alcune trasformazioni mi hanno fatto perdere tempo), ma alla fine sono riuscito a costruire pipeline chiare e riutilizzabili.
 

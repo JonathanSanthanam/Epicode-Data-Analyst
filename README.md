@@ -1,3 +1,42 @@
+## 🎓 Epicode Data Analyst Bootcamp — Overview
+
+> 250+ ore di formazione pratica serale · Excel · SQL · Python · Power BI · AI Tools  
+
+Percorso completo che copre l’intero ciclo della data analysis:  
+raccolta, pulizia, organizzazione, analisi e visualizzazione dei dati.  
+Tutti i progetti sono reali, documentati e collegati ai file settimanali in questa repo.
+
+**Competenze principali**
+- Data cleaning & advanced Excel  
+- SQL queries (JOIN, GROUP BY, HAVING, VIEW)  
+- Python (Pandas, Numpy, Matplotlib)  
+- Dashboard e report in Power BI / Looker Studio  
+- Analisi assistita con AI (ChatGPT, Colab, EpiCopilot)
+
+**Progetto finale**
+> Analisi completa con Excel, SQL, Python e Power BI  
+> Integrazione di strumenti AI per automazione e insight
+
+---
+
+> 250+ hours of live evening training · Excel · SQL · Python · Power BI · AI Tools  
+
+A complete journey through the entire data analysis cycle:  
+collecting, cleaning, organizing, analyzing, and visualizing data.  
+All projects are real, documented, and linked to the weekly folders in this repo.
+
+**Core Skills**
+- Data cleaning & advanced Excel  
+- SQL queries (JOIN, GROUP BY, HAVING, VIEW)  
+- Python (Pandas, Numpy, Matplotlib)  
+- Dashboards and reports in Power BI / Looker Studio  
+- AI-assisted analytics (ChatGPT, Colab, EpiCopilot)
+
+**Final Project**
+> Full analysis using Excel, SQL, Python, and Power BI  
+> AI integration for automation and analytical insights
+
+
 ### Panoramica  
 Questo percorso di oltre **250 ore di formazione live in orario serale** offre una preparazione solida e immediatamente spendibile nel mondo dei dati.  
 Il programma copre l’intero ciclo della data analysis: raccolta, pulizia, organizzazione, analisi e visualizzazione dei dati con gli strumenti più richiesti in ambito aziendale.  

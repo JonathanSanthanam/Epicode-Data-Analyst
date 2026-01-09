@@ -1,109 +1,89 @@
-## 🎓 Epicode Data Analyst Bootcamp
+## 🎓 Data Analytics Training
 
 ### 📊 Panoramica  
-Questo percorso di oltre **250 ore di formazione live in orario serale** offre una preparazione solida e subito spendibile nel mondo dei dati.  
-Il programma copre l’intero ciclo della data analysis — **raccolta, pulizia, organizzazione, analisi e visualizzazione** — con gli strumenti più richiesti in ambito aziendale.  
+Programma intensivo di 6 mesi (250+ ore) che copre l'intero ciclo della data analysis — dalla raccolta e pulizia dei dati fino all'analisi e visualizzazione con strumenti standard di settore.
 
 ---
 
-### 🧠 Cosa ho imparato  
+### 🧠 Competenze Acquisite  
 
-#### 📘 Fondamenti dei dati & Excel avanzato  
-- Comprensione dei dati e organizzazione in Excel  
-- Lavoro con dataset complessi  
-- Tabelle Pivot, Power Pivot e formule avanzate  
-- Pulizia, organizzazione e validazione dei dati  
+#### 📘 Excel & Fondamenti Dati  
+- Formule avanzate, Tabelle Pivot, Power Pivot
+- Pulizia, validazione e trasformazione dati con Power Query
+- Gestione e analisi di dataset complessi
 
-#### 🗄️ Database & SQL  
-- Fondamenti dei database relazionali  
-- Query SQL (SELECT, JOIN, GROUP BY, WHERE)  
-- Filtri, aggregazioni e subquery  
-- Lettura e manipolazione di dati reali  
+#### 🗄️ SQL & Database  
+- Progettazione database relazionali e modellazione E/R
+- Query complesse: JOIN, subquery, aggregazioni, CTE
+- Manipolazione e analisi dati su dataset reali
 
-#### 🐍 Python per la Data Analysis  
-- Sintassi base e ambienti di sviluppo  
-- Librerie essenziali: Pandas, Numpy, Matplotlib  
-- Analisi e visualizzazione dei dati con Python  
-- Utilizzo di strumenti AI (ChatGPT, Colab, Anaconda Assistant)  
+#### 📊 Data Visualization  
+- **Looker Studio:** Dashboard interattive, KPI, filtri, drill-down
+- **Power BI:** Report dinamici e data storytelling (in corso)
+- Comunicazione visiva efficace degli insight
 
-#### 📊 Data Visualization (Looker Studio & Power BI)  
-- Creazione di dashboard dinamiche  
-- Visualizzazioni efficaci in Looker Studio  
-- KPI, filtri, drill-down e interazioni visive  
-- Preparazione alla certificazione **Microsoft Power BI – PL300**  
-
-#### 🚀 Progetto Finale & AI Tools  
-- Sviluppo di un progetto reale con Excel, SQL, Python e Power BI  
-- Integrazione di strumenti AI nel lavoro da analista  
-- Prompt design per l’analisi con ChatGPT  
+#### 🤖 Analisi con AI  
+- Prompt engineering per data analysis
+- Integrazione di strumenti AI nei flussi di lavoro analitici
+- Reporting automatizzato e generazione di insight
 
 ---
 
-### 💡 Perché è diverso  
-- Lezioni live, interattive, senza teoria passiva  
-- Coach personale per potenziare soft skills e crescita professionale  
-- Progetti reali documentati e utilizzabili nel portfolio  
-- Career Service con simulazioni di colloqui, personal branding e supporto AI (EpiCopilot)  
+### 🔧 Strumenti  
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-1E8449?style=flat&logo=microsoft&logoColor=white)
 
 ---
 
-## 🌍 Overview  
-This is a **250+ hours live training program**, designed to provide a strong and practical foundation in data analysis.  
-It covers the entire data lifecycle — **collecting, cleaning, organizing, analyzing, and visualizing** — using the most in-demand tools in the industry.  
+### 📜 Prossima Certificazione  
+**Microsoft PL-300** – Power BI Data Analyst
 
 ---
 
-### 🧩 Skills I learned  
+## 🎓 Data Analytics Training
 
-#### 📘 Data Fundamentals & Advanced Excel  
-- Data structuring and management in Excel  
-- Working with complex datasets  
-- Pivot Tables, Power Pivot, advanced formulas  
-- Data cleaning, organization, and validation  
-
-#### 🗄️ Databases & SQL  
-- Fundamentals of relational databases  
-- SQL queries (SELECT, JOIN, GROUP BY, WHERE)  
-- Filtering, aggregations, and subqueries  
-- Reading and manipulating real-world data  
-
-#### 🐍 Python for Data Analysis  
-- Basic syntax and development environments  
-- Core libraries: Pandas, Numpy, Matplotlib  
-- Data analysis and visualization with Python  
-- Using AI tools (ChatGPT, Colab, Anaconda Assistant)  
-
-#### 📊 Data Visualization (Looker Studio & Power BI)  
-- Building dynamic dashboards  
-- Effective data storytelling with Looker Studio  
-- KPIs, filters, drill-downs, interactive visuals  
-- Preparation for **Microsoft Power BI – PL300 certification**  
-
-#### 🚀 Final Project & AI Tools  
-- Real-world project combining Excel, SQL, Python, and Power BI  
-- Integrating AI into the data analyst workflow  
-- Prompt design for data analysis with ChatGPT  
+### 📊 Overview  
+Intensive 6-month program (250+ hours) covering the complete data analysis lifecycle — from data collection and cleaning to analysis and visualization using industry-standard tools.
 
 ---
 
-### 🌟 Why it’s different  
-- Live, interactive sessions with no passive lectures  
-- Personal coach focused on soft skills and professional growth  
-- Real, documented projects ready for your portfolio  
-- Career Service with mock interviews, personal branding, and AI support (EpiCopilot)  
+### 🧠 Skills Acquired  
+
+#### 📘 Excel & Data Fundamentals  
+- Advanced formulas, Pivot Tables, Power Pivot
+- Data cleaning, validation, and transformation with Power Query
+- Complex dataset management and analysis
+
+#### 🗄️ SQL & Databases  
+- Relational database design and E/R modeling
+- Complex queries: JOINs, subqueries, aggregations, CTEs
+- Data manipulation and analysis on real-world datasets
+
+#### 📊 Data Visualization  
+- **Looker Studio:** Interactive dashboards, KPIs, filters, drill-downs
+- **Power BI:** Dynamic reports and data storytelling (in progress)
+- Effective visual communication of insights
+
+#### 🤖 AI-Assisted Analysis  
+- Prompt engineering for data analysis
+- Integrating AI tools into analytical workflows
+- Automated reporting and insight generation
 
 ---
 
-## 🔧 Tools & Skills  
-- Portfolio of real projects to showcase to recruiters  
-- Career Service with mock interviews, personal branding, and AI support (EpiCopilot)  
+### 🔧 Tools  
 
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-1E8449?style=flat&logo=microsoft&logoColor=white)
 
+---
 
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)  
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)  
+### 📜 Upcoming Certification  
+**Microsoft PL-300** – Power BI Data Analyst

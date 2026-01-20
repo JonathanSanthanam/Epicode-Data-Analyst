@@ -136,3 +136,144 @@ Il modulo Python ha rappresentato un percorso completo dalla programmazione di b
 ## Highlight
 
 Il progetto finale sul COVID-19: partendo da un dataset grezzo di migliaia di righe, ho pulito i dati, aggregato per continenti e nazioni, analizzato trend temporali su casi, vaccini e ospedalizzazioni, e prodotto visualizzazioni comparative tra Italia, Germania e Francia — tutto in un unico notebook Python che racconta una storia chiara attraverso i dati.
+
+---
+
+# Module — Python for Data Analysis
+
+## Module Overview
+
+This module covered Python as a fundamental tool for data analysis, starting from programming basics up to advanced techniques for data manipulation, cleaning, and visualization. Over four intensive weeks, I built solid competence in using Python and its main data analysis libraries: Pandas, NumPy, Seaborn, Matplotlib, and BeautifulSoup.
+
+## Module Objectives
+
+- Master Python fundamentals: variables, data structures, logic, and loops
+- Acquire advanced Pandas skills for DataFrame manipulation
+- Develop Data Cleaning techniques to prepare real datasets for analysis
+- Create effective visualizations with Seaborn and Matplotlib
+- Understand Web Scraping basics for collecting data from the web
+- Apply all skills in a final data analysis project
+
+## Module Weeks
+
+### Week 9 — Introduction to Python: Variables, Data Types, Collections, Logic, and Loops
+
+**Topics covered:**
+- Variables and data types (int, float, str, bool, None)
+- Built-in functions: `print()`, `type()`, `len()`, `help()`
+- Lists, tuples, sets, and dictionaries
+- Logical structures: `if`, `elif`, `else`
+- `while` and `for` loops
+- Iteration functions: `range()`, `enumerate()`, `zip()`
+
+**Skills developed:**
+- Writing clear, step-by-step algorithms
+- Manipulating collections with indexing and slicing
+- Flow control with `break` and `continue`
+- Organized handling of complex data structures
+
+**Challenges overcome:**
+- Difference between indexing and slicing
+- Precise organization of conditional logic
+- Avoiding infinite loops and managing conditions correctly
+
+### Week 10 — Data Analysis with Pandas: DataFrames, Series, Filtering, Null Handling, Groupby, Sorting
+
+**Topics covered:**
+- Loading data with `pd.read_csv()` and `pd.read_excel()`
+- Data inspection: `.head()`, `.tail()`, `.shape()`, `.info()`, `.describe()`
+- Series vs DataFrame
+- Selection with `.loc[]` and `.iloc[]`
+- Logical filters with `&`, `|`, `~`
+- Null value handling: `.isnull()`, `.dropna()`, `.fillna()`
+- Aggregations with `groupby()` and `.agg()`
+
+**Skills developed:**
+- Exploratory analysis of real datasets
+- Reproducible data cleaning
+- Creating aggregations and group statistics
+- Saving transformed DataFrames
+
+**Challenges overcome:**
+- Choosing when to use Series vs DataFrame
+- Building multiple filters without parentheses errors
+- Deciding the correct strategy for null values based on context
+
+### Week 11 — Python: Advanced Pandas & Data Cleaning
+
+**Topics covered:**
+- Advanced `groupby()` and MultiIndex
+- Data combining: `merge()`, `join()`, `concat()`
+- Data Cleaning: duplicates, strings, null values
+- Text manipulation with `.str` methods
+- Automation with `os` library
+- AI-assisted coding with ChatGPT and Claude
+
+**Skills developed:**
+- Relating different DataFrames like in SQL
+- Cleaning text columns (emails, names)
+- Iterating over multiple files for batch analysis
+- Conscious use of LLMs for debugging
+
+**Challenges overcome:**
+- Handling encoding (`latin1`) and non-standard separators
+- Understanding differences between left, right, inner, and outer joins
+- Writing scripts to automatically scan folders
+
+### Week 12 — Python: Data Analysis, Visualization & Web Scraping
+
+**Topics covered:**
+- Complete EDA (Exploratory Data Analysis)
+- Visualization with Seaborn and Matplotlib
+- Charts: Boxplots, Histograms, Scatterplots, Heatmaps
+- Time series handling (datetime)
+- Web Scraping: HTML/CSS, BeautifulSoup, requests
+- Final Project: COVID-19 Analysis
+
+**Skills developed:**
+- Creating complex charts to communicate insights
+- Trend analysis on time series
+- Extracting data from web pages
+- Combining all skills in a complete project
+
+**Challenges overcome:**
+- Choosing the most appropriate chart type for each relationship
+- Managing large datasets (OWID Covid)
+- Interpreting DOM structure to extract specific information
+
+## Overall Skills Developed
+
+| Area | Skill |
+|------|-------|
+| Programming | Python fundamentals: variables, data structures, logic, loops |
+| Data Manipulation | Advanced Pandas: filtering, grouping, merging, cleaning |
+| Data Visualization | Professional charts with Seaborn and Matplotlib |
+| Data Cleaning | Handling null values, duplicates, string normalization |
+| Web Scraping | Extracting data from the web with BeautifulSoup |
+| Automation | Scripts for batch processing of multiple files |
+| AI-Assisted Coding | Using LLMs for debugging and code optimization |
+
+## Main Module Files
+
+| Week | File | Description |
+|------|------|-------------|
+| 9 | `W9D1 - Teoria.pdf` | Variables, data types, lists |
+| 9 | `W9D1 - Pratica.pdf` | Exercises on algorithms and collections |
+| 9 | `W9D2 - Teoria.pdf` | Tuples, sets, dictionaries, logic, loops |
+| 10 | `W10D1 - Teoria.pdf` | DataFrames, Series, indexing, null handling |
+| 10 | `W10D4 - Teoria.pdf` | Sorting, groupby, aggregations |
+| 10 | `W10D4 - Pratica.ipynb` | Exercises on real datasets |
+| 11 | `W11D5 - Teoria.pdf` | Advanced groupby, Merge/Join, AI coding |
+| 11 | `W11D6 - Teoria.pdf` | Data Cleaning, strings, null values |
+| 11 | `W11D6 - Pratica.ipynb` | Automation scripts and data cleaning |
+| 12 | `W12D7 - Teoria.pdf` | EDA and Data Visualization with Seaborn |
+| 12 | `W12D8 - Teoria.pdf` | Web Scraping with BeautifulSoup |
+| 12 | `W12D8 - Esame finale.ipynb` | Final Project: COVID-19 Analysis |
+
+## Conclusion
+
+The Python module represented a complete journey from basic programming to professional data analysis. Starting from variables and loops, I progressed to mastering Pandas for complex dataset manipulation, creating effective visualizations with Seaborn and Matplotlib, and collecting data from the web with scraping techniques. The most significant aspect was the COVID-19 Final Project, which required combining all acquired skills — data cleaning, aggregation, time-series analysis, and comparative visualization — into a coherent and professional report.
+
+## Highlight
+
+The COVID-19 final project: starting from a raw dataset of thousands of rows, I cleaned the data, aggregated by continents and nations, analyzed temporal trends on cases, vaccines, and hospitalizations, and produced comparative visualizations between Italy, Germany, and France — all in a single Python notebook that tells a clear story through data.

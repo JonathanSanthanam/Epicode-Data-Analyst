@@ -40,20 +40,20 @@ Programma intensivo di 6 mesi (250+ ore) che copre l'intero ciclo della data ana
 
 ### Moduli
 
-| Modulo | Settimane | Argomenti | Link |
-|--------|-----------|-----------|------|
-| **Excel** | Week 1-4 | Formule, Pivot, Power Query, Power Pivot | [📂 Modulo](./Excel/README.md) |
-| **SQL** | Week 5-8 | Progettazione DB, Query, JOIN, Transazioni | [📂 Modulo](./SQL/README.md) |
-| **Python** | Week 9-12 | Pandas, Visualization, Web Scraping | [📂 Modulo](./Python/README.md) |
-| **Looker Studio** | Week 13-14 | Dashboard, Data Storytelling, Temi | [📂 Modulo](./Looker_Studio/README.md) |
-| **Power BI** | Week 15+ | Report dinamici, DAX avanzato | 🚧 In corso |
+| Modulo | Settimane | Argomenti |
+|--------|-----------|-----------|
+| **Excel** | Week 1-4 | Formule, Pivot, Power Query, Power Pivot |
+| **SQL** | Week 5-8 | Progettazione DB, Query, JOIN, Transazioni |
+| **Python** | Week 9-12 | Pandas, Visualization, Web Scraping |
+| **Looker Studio** | Week 13-14 | Dashboard, Data Storytelling, Temi |
+| **Power BI** | Week 15+ | Report dinamici, DAX avanzato 🚧 |
 
 ### Build Week Projects
 
-| Progetto | Modulo | Descrizione | Link |
-|----------|--------|-------------|------|
-| **COVID-19 Analysis** | Excel | Analisi regionale Italia 2020-2025 con Power Query + Power Pivot | [📂 Progetto](./Excel/Build_Week/README.md) |
-| **VendiCose S.p.A.** | SQL | Database gestione magazzini e vendite | [📂 Progetto](./SQL/Build_Week/README.md) |
+| Progetto | Modulo | Descrizione |
+|----------|--------|-------------|
+| **COVID-19 Analysis** | Excel | Analisi regionale Italia 2020-2025 con Power Query + Power Pivot |
+| **VendiCose S.p.A.** | SQL | Database gestione magazzini e vendite |
 
 ---
 
@@ -79,50 +79,6 @@ Week 15+    ░░░░░░░░░░░░░░░░░░░░░░�
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-1E8449?style=flat&logo=microsoft&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 📂 Quick Links
-
-### Week READMEs
-
-<details>
-<summary><b>📘 Excel (Week 1-4)</b></summary>
-
-- [Week 1 — Excel Fundamentals & First Git Steps](./Excel/Week_01/README.md)
-- [Week 2 — Layout di Stampa & Tabelle Pivot](./Excel/Week_02/README.md)
-- [Week 3 — Power Query & Data Transformation](./Excel/Week_03/README.md)
-- [Week 4 — Power Pivot & Advanced Excel](./Excel/Week_04/README.md)
-
-</details>
-
-<details>
-<summary><b>🗄️ SQL (Week 5-8)</b></summary>
-
-- [Week 5 — Progettazione Concettuale, Logica e Implementazione](./SQL/Week_05/README.md)
-- [Week 6 — Query, Join e Subquery](./SQL/Week_06/README.md)
-- [Week 7 — Aggregazioni, Funzioni Built-in e View](./SQL/Week_07/README.md)
-- [Week 8 — Modifica, Eliminazione e Transazioni](./SQL/Week_08/README.md)
-
-</details>
-
-<details>
-<summary><b>🐍 Python (Week 9-12)</b></summary>
-
-- [Week 9 — Introduzione a Python: Variabili, Collections, Logica, Loops](./Python/Week_09/README.md)
-- [Week 10 — Pandas: DataFrame, Filtri, Groupby, Sorting](./Python/Week_10/README.md)
-- [Week 11 — Advanced Pandas & Data Cleaning](./Python/Week_11/README.md)
-- [Week 12 — Data Visualization & Web Scraping](./Python/Week_12/README.md)
-
-</details>
-
-<details>
-<summary><b>📊 Looker Studio (Week 13-14)</b></summary>
-
-- [Week 13 — Fondamenti Looker Studio e Analytics](./Looker_Studio/Week_13/README.md)
-- [Week 14 — Temi, Layout e Data Storytelling](./Looker_Studio/Week_14/README.md)
-
-</details>
 
 ---
 
@@ -181,20 +137,20 @@ Intensive 6-month program (250+ hours) covering the complete data analysis lifec
 
 ### Modules
 
-| Module | Weeks | Topics | Link |
-|--------|-------|--------|------|
-| **Excel** | Week 1-4 | Formulas, Pivot, Power Query, Power Pivot | [📂 Module](./Excel/README.md) |
-| **SQL** | Week 5-8 | DB Design, Queries, JOINs, Transactions | [📂 Module](./SQL/README.md) |
-| **Python** | Week 9-12 | Pandas, Visualization, Web Scraping | [📂 Module](./Python/README.md) |
-| **Looker Studio** | Week 13-14 | Dashboards, Data Storytelling, Themes | [📂 Module](./Looker_Studio/README.md) |
-| **Power BI** | Week 15+ | Dynamic reports, Advanced DAX | 🚧 In progress |
+| Module | Weeks | Topics |
+|--------|-------|--------|
+| **Excel** | Week 1-4 | Formulas, Pivot, Power Query, Power Pivot |
+| **SQL** | Week 5-8 | DB Design, Queries, JOINs, Transactions |
+| **Python** | Week 9-12 | Pandas, Visualization, Web Scraping |
+| **Looker Studio** | Week 13-14 | Dashboards, Data Storytelling, Themes |
+| **Power BI** | Week 15+ | Dynamic reports, Advanced DAX 🚧 |
 
 ### Build Week Projects
 
-| Project | Module | Description | Link |
-|---------|--------|-------------|------|
-| **COVID-19 Analysis** | Excel | Regional Italy analysis 2020-2025 with Power Query + Power Pivot | [📂 Project](./Excel/Build_Week/README.md) |
-| **VendiCose S.p.A.** | SQL | Warehouse and sales management database | [📂 Project](./SQL/Build_Week/README.md) |
+| Project | Module | Description |
+|---------|--------|-------------|
+| **COVID-19 Analysis** | Excel | Regional Italy analysis 2020-2025 with Power Query + Power Pivot |
+| **VendiCose S.p.A.** | SQL | Warehouse and sales management database |
 
 ---
 
@@ -220,50 +176,6 @@ Week 15+    ░░░░░░░░░░░░░░░░░░░░░░�
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-1E8449?style=flat&logo=microsoft&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 📂 Quick Links
-
-### Week READMEs
-
-<details>
-<summary><b>📘 Excel (Week 1-4)</b></summary>
-
-- [Week 1 — Excel Fundamentals & First Git Steps](./Excel/Week_01/README.md)
-- [Week 2 — Print Layout & Pivot Tables](./Excel/Week_02/README.md)
-- [Week 3 — Power Query & Data Transformation](./Excel/Week_03/README.md)
-- [Week 4 — Power Pivot & Advanced Excel](./Excel/Week_04/README.md)
-
-</details>
-
-<details>
-<summary><b>🗄️ SQL (Week 5-8)</b></summary>
-
-- [Week 5 — Conceptual Design, Logical Modeling and SQL Implementation](./SQL/Week_05/README.md)
-- [Week 6 — Queries, Joins and Subqueries](./SQL/Week_06/README.md)
-- [Week 7 — Aggregations, Built-in Functions and Views](./SQL/Week_07/README.md)
-- [Week 8 — Data Modification, Deletion, and Transactions](./SQL/Week_08/README.md)
-
-</details>
-
-<details>
-<summary><b>🐍 Python (Week 9-12)</b></summary>
-
-- [Week 9 — Introduction to Python: Variables, Collections, Logic, Loops](./Python/Week_09/README.md)
-- [Week 10 — Pandas: DataFrames, Filtering, Groupby, Sorting](./Python/Week_10/README.md)
-- [Week 11 — Advanced Pandas & Data Cleaning](./Python/Week_11/README.md)
-- [Week 12 — Data Visualization & Web Scraping](./Python/Week_12/README.md)
-
-</details>
-
-<details>
-<summary><b>📊 Looker Studio (Week 13-14)</b></summary>
-
-- [Week 13 — Looker Studio Fundamentals and Analytics](./Looker_Studio/Week_13/README.md)
-- [Week 14 — Themes, Layout and Data Storytelling](./Looker_Studio/Week_14/README.md)
-
-</details>
 
 ---
 

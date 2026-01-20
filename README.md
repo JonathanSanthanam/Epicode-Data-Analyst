@@ -46,7 +46,7 @@ Programma intensivo di 6 mesi (250+ ore) che copre l'intero ciclo della data ana
 | **SQL** | Week 5-8 | Progettazione DB, Query, JOIN, Transazioni |
 | **Python** | Week 9-12 | Pandas, Visualization, Web Scraping |
 | **Looker Studio** | Week 13-14 | Dashboard, Data Storytelling, Temi |
-| **Power BI** | Week 15+ | Report dinamici, DAX avanzato 🚧 |
+| **Power BI** | Week 15-19 | Report dinamici, DAX avanzato 🚧 |
 
 ### Build Week Projects
 
@@ -143,7 +143,7 @@ Intensive 6-month program (250+ hours) covering the complete data analysis lifec
 | **SQL** | Week 5-8 | DB Design, Queries, JOINs, Transactions |
 | **Python** | Week 9-12 | Pandas, Visualization, Web Scraping |
 | **Looker Studio** | Week 13-14 | Dashboards, Data Storytelling, Themes |
-| **Power BI** | Week 15+ | Dynamic reports, Advanced DAX 🚧 |
+| **Power BI** | Week 15-19 | Dynamic reports, Advanced DAX 🚧 |
 
 ### Build Week Projects
 

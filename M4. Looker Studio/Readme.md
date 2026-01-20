@@ -1,71 +1,95 @@
-# Il Paradosso di Sanremo: Vincere non basta per il successo streaming
+# Modulo — Google Looker Studio
 
-## Descrizione
-Analisi dei dati del Festival di Sanremo (1951-2023) per dimostrare che vincere il Festival non garantisce il successo su Spotify. Le canzoni più ascoltate in streaming non sono i vincitori.
+## Panoramica del Modulo
 
-## Dataset
-- **dati-festival.xlsx** - Anno, Sede, Presentatore, Partecipanti, Vincitore
-- **dati-classifica.xlsx** - Posizione, Interprete, Canzone, Anno, Autori
-- **dati-canzoni-spotify.xlsx** - Canzone, Artista, Popolarità, Durata
+Questo modulo ha coperto Google Looker Studio, lo strumento di Business Intelligence e reporting di Google, insieme ai prodotti complementari della suite Google per la presenza online. Nel corso di due settimane intensive, ho esplorato l'intero processo di creazione di report e dashboard — dalla comprensione degli analytics web alla progettazione di visualizzazioni dati professionali e coinvolgenti.
 
-## Report Looker Studio
-🔗 [Visualizza il Report](https://lookerstudio.google.com/reporting/5661a833-69e7-4332-91c8-1b8fde418ab7)
+## Obiettivi del Modulo
 
-## Struttura del Report
+- Comprendere l'ecosistema degli strumenti Google per la presenza online e l'analisi dati
+- Padroneggiare Looker Studio per la creazione di report interattivi e dashboard
+- Acquisire competenze nel data storytelling e nella visualizzazione efficace dei dati
+- Integrare diverse fonti dati in un unico ambiente di reporting
+- Applicare principi di design per migliorare l'usabilità e l'impatto visivo dei report
 
-### Pagina 1: Overview
-- 3 Scorecard: Totale Edizioni, Totale Canzoni, Popolarità Media
-- Grafico a barre: Popolarità media per Posizione
-- Tabella Top 10 canzoni più ascoltate
+## Settimane del Modulo
 
-### Pagina 2: Il Paradosso Svelato
-- Tabella Top 20 canzoni per Popolarità
-- Pie chart: Distribuzione Top 50 per Categoria (Vincitore, Podio, Altri)
-- Scorecard: Vincitori nelle Top 50
+### Week 13 — Fondamenti di Looker Studio e Analytics
 
-### Pagina 3: L'Evoluzione del Festival
-- Grafico lineare: Popolarità media per Decennio
-- Grafico a barre: Canzoni per Decennio
+**Argomenti trattati:**
+- Introduzione a Google Analytics e Google Sites
+- Basi di Google Looker Studio
+- Connessione a origini dati
+- Data blending tra fonti diverse
+- Analisi Esplorativa dei Dati (EDA) in Looker Studio
+- Tipologie di grafici, controlli e filtri
 
-## Insight Principali
-- Il vincitore medio ha una popolarità di appena 3.69, contro i 28-35 delle altre posizioni
-- Nelle Top 50 canzoni più ascoltate, solo 1 è un vincitore (meno del 2%)
-- L'86% delle Top 50 non ha mai vinto né raggiunto il podio
-- La canzone più ascoltata, "Luna" di Loredana Bertè (1997), non fu nemmeno classificata
+**Competenze sviluppate:**
+- Creazione di siti web no-code con Google Sites
+- Monitoraggio web con Google Analytics
+- Connessione di Looker Studio a diverse fonti dati (Google Analytics, database SQL, Google Sheets)
+- Unione di tabelle tramite data blending
+- Progettazione di report interattivi con controlli e filtri
+- Scelta appropriata delle visualizzazioni per diversi tipi di dati
 
----
+**Sfide superate:**
+- Configurazione di connessioni SQL complesse con query personalizzate
+- Implementazione corretta delle condizioni di join nel data blending
+- Gestione dell'ambito e della gerarchia dei filtri nei report
+- Selezione della tipologia di grafico più efficace per comunicare specifici insight
 
-# The Sanremo Paradox: Winning is not enough for streaming success
+### Week 14 — Temi, Layout e Data Storytelling Avanzato
 
-## Description
-Analysis of Sanremo Festival data (1951-2023) to demonstrate that winning the Festival does not guarantee success on Spotify. The most streamed songs are not the winners.
+**Argomenti trattati:**
+- Personalizzazione di temi e layout in Looker Studio
+- Principi di data storytelling
+- Creazione di temi personalizzati da immagini
+- Gestione avanzata del layout e della navigazione
+- Campi calcolati e Regular Expressions
+- Embedding e condivisione di report
 
-## Dataset
-- **dati-festival.xlsx** - Year, Venue, Host, Participants, Winner
-- **dati-classifica.xlsx** - Position, Artist, Song, Year, Authors
-- **dati-canzoni-spotify.xlsx** - Song, Artist, Popularity, Duration
+**Competenze sviluppate:**
+- Progettazione di temi personalizzati coerenti con l'identità aziendale
+- Applicazione dei principi di data storytelling per comunicazioni efficaci
+- Creazione di layout responsive e user-friendly
+- Utilizzo di campi calcolati e RegEx per la trasformazione dati
+- Implementazione di report embeddabili in altri contesti
+- Gestione della condivisione e dei permessi dei report
 
-## Looker Studio Report
-🔗 [View Report](https://lookerstudio.google.com/reporting/5661a833-69e7-4332-91c8-1b8fde418ab7)
+**Sfide superate:**
+- Creazione di un tema coerente partendo da un'immagine (logo aziendale)
+- Bilanciamento tra estetica e funzionalità nel design del layout
+- Applicazione pratica dei principi di data storytelling a dataset reali
+- Configurazione corretta dei permessi di condivisione per diverse tipologie di utenti
 
-## Report Structure
+## Competenze Complessive Sviluppate
 
-### Page 1: Overview
-- 3 Scorecards: Total Editions, Total Songs, Average Popularity
-- Bar chart: Average Popularity by Position
-- Table: Top 10 most streamed songs
+| Area | Competenza |
+|------|------------|
+| Analytics Web | Monitoraggio della presenza online con Google Analytics |
+| Sviluppo No-Code | Creazione di siti web con Google Sites |
+| Data Integration | Connessione e blending di fonti dati eterogenee |
+| Data Visualization | Progettazione di dashboard e report interattivi |
+| Data Storytelling | Comunicazione efficace di insight attraverso narrazione visiva |
+| UI/UX Design | Applicazione di principi di design a report e dashboard |
+| Collaboration | Condivisione e gestione dei permessi per team |
 
-### Page 2: The Paradox Revealed
-- Table: Top 20 songs by Popularity
-- Pie chart: Top 50 Distribution by Category (Winner, Podium, Others)
-- Scorecard: Winners in Top 50
+## File Principali del Modulo
 
-### Page 3: Festival Evolution
-- Line chart: Average Popularity by Decade
-- Bar chart: Songs per Decade
+| Settimana | File | Descrizione |
+|-----------|------|-------------|
+| 13 | `Teoria.pdf` | Introduzione a Google Analytics e Google Sites |
+| 13 | `Teoria extra.pdf` | Fondamenti di Google Looker Studio |
+| 13 | `Pratica.pdf` | Esercitazione: portfolio con Google Sites + Analytics |
+| 13 | `Pratica extra.pdf` | Primo report Looker Studio con AdventureWorks |
+| 14 | `Teoria.pdf` | Temi, layout e data storytelling avanzato |
+| 14 | `Teoria extra.pdf` | Ricapitolazione funzionalità Looker Studio |
+| 14 | `Pratica.pdf` | Esercitazione: tema personalizzato e data storytelling |
 
-## Key Insights
-- The average winner has a popularity of only 3.69, compared to 28-35 for other positions
-- In the Top 50 most streamed songs, only 1 is a winner (less than 2%)
-- 86% of the Top 50 never won or reached the podium
-- The most streamed song, "Luna" by Loredana Bertè (1997), was not even classified
+## Conclusione
+
+Il modulo Looker Studio ha rappresentato un percorso completo nell'ecosistema di strumenti Google per l'analisi e la visualizzazione dati. Dalla creazione di una presenza online di base con Google Sites e Analytics, sono passato alla progettazione di dashboard professionali e interattive con Looker Studio. L'aspetto più significativo è stata l'evoluzione dalla semplice visualizzazione dei dati al data storytelling — l'arte di trasformare numeri e statistiche in narrazioni coinvolgenti e persuasive. La capacità di creare report non solo tecnicamente corretti ma anche esteticamente gradevoli e comunicativamente efficaci è una competenza trasversale che applicherò in qualsiasi contesto lavorativo futuro.
+
+## Highlight
+
+Realizzare un report completo di Looker Studio che partiva da query SQL complesse, integrava dati da fonti multiple attraverso il data blending, presentava visualizzazioni interattive con controlli avanzati, ed era impacchettato in un design coerente e professionale con un tema personalizzato — tutto finalizzato a raccontare una storia chiara e convincente sull'andamento del business.
